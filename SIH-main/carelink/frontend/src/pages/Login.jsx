@@ -24,7 +24,7 @@ export default function Login() {
   return (
     <div className="login-page">
       <form className="login-form" onSubmit={handleSubmit}>
-        <h2>Care-Link AI Login</h2>
+        <h2>Med Care AI Login</h2>
         <p className="disclaimer">This is an academic prototype. Do not enter real victim, medical, legal, or personally identifiable information.</p>
         <label>User ID / Email</label>
         <input value={email} onChange={(e) => setEmail(e.target.value)} />

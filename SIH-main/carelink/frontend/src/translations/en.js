@@ -1,5 +1,5 @@
 export const en = {
-  appName: "Care-Link AI",
+  appName: "Med Care AI",
   prototypeNotice: "This is an academic prototype. Do not enter real victim, medical, legal, or personally identifiable information.",
   login: "Login",
   email: "User ID / Email",

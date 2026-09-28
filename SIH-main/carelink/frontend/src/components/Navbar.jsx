@@ -9,7 +9,7 @@ export default function Navbar() {
   }
   return (
     <div className="navbar">
-      <div className="navbar-title">Care-Link AI</div>
+      <div className="navbar-title">Med Care AI</div>
       {user && (
         <div className="navbar-user">
           <span>{user.displayName} ({user.role})</span>
