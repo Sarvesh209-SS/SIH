@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+carelink/frontend/node_modules/
+carelink/frontend/dist/
+
+# Environment
+.env
+*.env
+firebase-service-account.json
